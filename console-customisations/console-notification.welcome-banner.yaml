@@ -6,7 +6,7 @@ spec:
   backgroundColor: '#EE0000'
   color: '#fff'
   link:
-    href: https://www.redhat.com/en/summit
+    href: https://redhat-scholars.github.io/summit-2023-gitops-lab-guide/summit-2023-gitops-workshop-guide/main/m1-overview/intro.html?USERID=sgkevinye&SUBDOMAIN=&APIURL=
     text: (Event Information)
   location: BannerTop
-  text: Welcome to Red Hat Summit 2023!
+  text: Welcome to GitOps Workshop!
